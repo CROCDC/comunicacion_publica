@@ -1,0 +1,1 @@
+const appName = "Comunicación Publica";const url = "http://www.comunicacionpublica.com/wp-json/wp/v2/";
